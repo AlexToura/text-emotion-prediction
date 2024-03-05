@@ -14,8 +14,10 @@ Address a real-world machine learning problem.
 
 
 #Data
+
 The dataset consists of documents labeled with emotions in raw text format. Preprocessing of the data is necessary to convert it into a format suitable for machine learning algorithms.
 
 #Goal
+
 Train, optimize, and evaluate the model on the provided dataset to achieve the highest predictive performance on new, unseen data.
 
