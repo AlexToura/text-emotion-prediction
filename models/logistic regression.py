@@ -6,7 +6,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report
 
-file_path= "C:/Users/kakis/Downloads/train_emotion.csv"
+file_path= "../train_emotion.csv"
 data= pd.read_csv(file_path)
 
 # We split the dataset into training and validation sets
