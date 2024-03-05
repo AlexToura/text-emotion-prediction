@@ -77,6 +77,6 @@ def train_test(train_csv, test_csv, predictions_txt):
 
 
 # Example usage
-train_csv = "C:/Users/kakis/Downloads/train_emotion.csv"
-test_csv = "C:/Users/kakis/Downloads/test_emotion.csv"
+train_csv = "train_emotion.csv"
+test_csv = "test_emotion.csv"
 train_test(train_csv, test_csv, 'predictions.txt')
