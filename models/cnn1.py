@@ -10,7 +10,7 @@ from sklearn.metrics import classification_report
 import numpy as np
 
 # Load the dataset
-file_path = "C:/Users/kakis/Downloads/train_emotion.csv"
+file_path = "../train_emotion.csv"
 data = pd.read_csv(file_path)
 
 # Splitting the dataset into training and validation sets
